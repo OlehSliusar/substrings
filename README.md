@@ -9,5 +9,3 @@ Substrings takes a word as the first argument and an array of valid substrings (
     > substrings("below", dictionary)
     => {"below"=>1, "low"=>1}
 ```
-
-This is a project for [TheOdinProject's](http://www.theodinproject.com) Ruby track. See [here](http://www.theodinproject.com/courses/ruby-programming/lessons/building-blocks) for more information.
